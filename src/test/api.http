@@ -1,0 +1,12 @@
+POST http://localhost:9091/api/v1/create
+Content-Type: application/json
+
+{
+"username":"taingssuyen1",
+"password":"khongbiet",
+"email":"NULL1@gsmail.com",
+"fullname":"tainguyen123",
+"phone":"09876545670",
+"role":"2"
+}
+###
